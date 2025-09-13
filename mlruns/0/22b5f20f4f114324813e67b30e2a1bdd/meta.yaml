@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/22b5f20f4f114324813e67b30e2a1bdd/artifacts
+end_time: 1757657510049
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22b5f20f4f114324813e67b30e2a1bdd
+run_name: judicious-shrew-934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757657509681
+status: 3
+tags: []
+user_id: 5kin

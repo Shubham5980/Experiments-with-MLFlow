@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e00301a5bf084a2bb86b0af737deede3/artifacts
+end_time: 1757655602640
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e00301a5bf084a2bb86b0af737deede3
+run_name: caring-pig-137
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757655602580
+status: 3
+tags: []
+user_id: 5kin

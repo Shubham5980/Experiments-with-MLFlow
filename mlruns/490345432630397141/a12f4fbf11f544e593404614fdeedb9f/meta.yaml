@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/490345432630397141/a12f4fbf11f544e593404614fdeedb9f/artifacts
+end_time: 1757748132348
+entry_point_name: ''
+experiment_id: '490345432630397141'
+lifecycle_stage: active
+run_id: a12f4fbf11f544e593404614fdeedb9f
+run_name: funny-stoat-339
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757748123463
+status: 3
+tags: []
+user_id: 5kin

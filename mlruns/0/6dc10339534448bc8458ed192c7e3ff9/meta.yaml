@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6dc10339534448bc8458ed192c7e3ff9/artifacts
+end_time: 1757655558749
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6dc10339534448bc8458ed192c7e3ff9
+run_name: whimsical-hog-821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757655558699
+status: 3
+tags: []
+user_id: 5kin

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/490345432630397141/96e2ef2b2f9f42e9835cbb6ac846399c/artifacts
+end_time: 1757747035102
+entry_point_name: ''
+experiment_id: '490345432630397141'
+lifecycle_stage: active
+run_id: 96e2ef2b2f9f42e9835cbb6ac846399c
+run_name: fortunate-squid-355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757747034654
+status: 3
+tags: []
+user_id: 5kin

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/859539821921834170/a95c04d2d9ce4a92be3b18a596d40bbb/artifacts
+deleted_time: 1757657539061
+end_time: 1757655468658
+entry_point_name: ''
+experiment_id: '859539821921834170'
+lifecycle_stage: deleted
+run_id: a95c04d2d9ce4a92be3b18a596d40bbb
+run_name: upbeat-stork-192
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757655468559
+status: 3
+tags: []
+user_id: 5kin
